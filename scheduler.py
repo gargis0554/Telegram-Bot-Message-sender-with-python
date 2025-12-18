@@ -11,5 +11,5 @@ def daily_message():
     bot.send_message(chat_id=GROUP_ID, text=msg)
 
 scheduler = BackgroundScheduler()
-scheduler.add_job(daily_message, 'cron', hour=23, min=0)  # 9 AM
+scheduler.add_job(daily_message, 'cron', hour=23) #11 PM  
 scheduler.start()
