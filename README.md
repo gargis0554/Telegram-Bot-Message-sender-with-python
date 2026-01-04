@@ -26,9 +26,3 @@ A friendly Telegram bot built with **Python** to send **compliments** and **mood
 3. `/mood` checks if the mood entered is valid (`happy`, `sad`, `stressed`, `love`).  
    If invalid, it prompts the user to try again.
 4. `/start` simply confirms the bot is active in the group.
-
-## Usage 
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
