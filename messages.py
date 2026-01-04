@@ -1,26 +1,26 @@
 compliments = [
-    "You are an idiot and I’m proud of you 💖",
-    "You have a strong bicep , just shut up and put my legs on ur shoulder ",
-    "Even on your worst days, you are perfect",
-    "such a nice voice you have , just moan my name  💕"
+    "You are doing great, keep it up! 💖",
+    "Your effort is impressive, stay strong 💪",
+    "Even on tough days, you handle things well",
+    "Your dedication is inspiring 💫"
 ]
 
 mood_messages = {
     "happy": [
-        "You have a cute smile, just keep smilling and blushing 🌸",
-        "You lit up the room by your presence "
+        "Keep smiling and enjoying your day 🌸",
+        "Your positive energy brightens the room"
         
     ],
     "sad": [
-        "You are still my good boy and I am proud of you",
-        "Here's Your biggest supportor cheering on your every failure and success💫"
+        "Take it easy, better days are coming",
+        "Remember, challenges are part of growth 💫"
     ],
     "stressed": [
-        "Take a deep Breath,everything gonna be fine 💫",
-        "You are Perfect, No body compares to you"
+        "Take a deep breath, you’ve got this 💫",
+        "Stay calm and focused, everything will be fine"
     ],
     "love": [
-        "Just be a good boy and keep those preety eyes only on me  💕",
-        "Damn, You are too lucky You got me!!!"
+        "Spread kindness and positivity wherever you go 💕",
+        "Appreciate the people and moments around you"
     ]
 }
